@@ -21,9 +21,7 @@ Based	on	specific	phones	features?
 
 ## Data Description
 
-The data to be tested in this project are scraped from 91mobiles.com
-
-2658 rows and (108) columns.
+The data to be tested in this project is scraped from 91mobiles.com
 
 # Tools
 
