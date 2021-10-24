@@ -39,4 +39,3 @@ The data to be tested in this project is scraped from 91mobiles.com
     - Numpy
     - Seaborn
     - Matplotlib
-    - Patsy
